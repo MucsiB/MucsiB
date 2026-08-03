@@ -40,6 +40,6 @@ I am currently studying **Computer Science (BSc) at the University of Szeged**. 
 ---
 
 ### 📫 How to reach me:
-* 💼 **LinkedIn:** [@mucsibalazs](https://www.linkedin.com/in/mucsibal%C3%A1zs/)
+* 💼 **LinkedIn:** [@mucsibalazs](https://www.linkedin.com/in/mucsibalazs/)
 
 
