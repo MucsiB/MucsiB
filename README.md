@@ -35,7 +35,7 @@ I am currently studying **Computer Science (BSc) at the University of Szeged**. 
 
 ### 📂 Featured Projects
 * **[Dockerized Full-Stack Todo App]**: A complete task management system featuring client and server-side authentication (JWT), a PostgreSQL database with Prisma ORM, fully containerized using Docker Compose. (Built as a learning project based on [Smoljames](https://www.youtube.com/watch?v=9BD9eK9VqXA&t=1062s)' tutorial).
-* **[Python Arcade & AI Game Collection]**: A repository of 8+ classic 2D games (including Space Invaders, 2048, and a Platformer) built with Python and Pygame. (Built as a learning project based on *[Tech With Tim](https://www.youtube.com/watch?v=RuTmd4g5K8Q&t=49426s)'s tutorials).*
+* **[Python Arcade Game Collection]**: A repository of 8+ classic 2D games (including Space Invaders, 2048, and a Platformer) built with Python and Pygame. (Built as a learning project based on *[Tech With Tim](https://www.youtube.com/watch?v=RuTmd4g5K8Q&t=49426s)'s tutorials).*
 
 ---
 
