@@ -37,7 +37,7 @@ I am currently studying **Computer Science (BSc) at the University of Szeged**. 
 ### 📂 Featured Projects
 * **[Dockerized Full-Stack Todo App](https://github.com/MucsiB/dockerized-todo.git)**: A complete task management system featuring client and server-side authentication (JWT), a PostgreSQL database with Prisma ORM, fully containerized using Docker Compose. (Projects created while following along with [Smoljames](https://www.youtube.com/watch?v=9BD9eK9VqXA&t=1062s)' tutorial to learn Backend development basics).
 * **[Python Arcade Game Collection](https://github.com/MucsiB/Python-Arcade-Game-Collection.git)**: A repository of classic 2D games built with Python and Pygame. (Projects created while following along with *[Tech With Tim](https://www.youtube.com/watch?v=RuTmd4g5K8Q&t=49426s)'s tutorials  to learn game development basics).*
-
+* **[Parking Booking Backend](https://github.com/MucsiB/parking-booking-backend): A backend application for a parking spot reservation system built with Node.js, Express, and PostgreSQL. Features automated database seeding and is fully containerized with Docker. 
 ---
 
 ### 📫 How to reach me:
